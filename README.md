@@ -67,15 +67,3 @@ setup.sh
             <img src="./assets/actual_output.jpeg" alt="actual_output" width="400" height="400">
         </a>
     </p>
-
-## Contributors:
-- Aditya Patil - <adityapatil@umass.edu>
-- Adwait Bhope - <abhope@umass.edu>
-- Dhrumeen Patel - <dhrumeenkish@umass.edu>
-- Harsh Seth - <hseth@umass.edu>
-
-## Contributions
-- Aditya Patil: Wrote the [view generation script](./utils/view_generator.py) and wrote [utils/data_utils.py](./utils/data_utils.py). Wrote the [setup script](setup.sh) for training on cloud.
-- Adwait Bhope: Wrote the [inference script](inference.py) except for lines 10 to 30 and [render mesh file](./utils/render-mesh.py).
-- Dhrumeen Patel: Write the [class Pix3dDataset](./data/Pix3dDataset.py) and wrote the [model encoder](./model/ImageGridEncoder.py). Also contribute to the [inferencing code](./inference.py) line 10 to 30.
-- Harsh Seth: Wrote the [MeshDecoder](./model/MeshDecoder.py), [MindsEye](./model/MindsEye.py) and the [training code](./train.py).
