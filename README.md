@@ -60,10 +60,6 @@ setup.sh
 
 ## Model Output
 - Expected <br/>
-    ![expected_outtput](./assets/expected_output.gif)
+    ![expected_output](./assets/expected_output.gif)
 - Actual <br/>
-    <p>
-        <a href="https://github.com/harsh-seth/minds-eye/tree/main">
-            <img src="./assets/actual_output.jpeg" alt="actual_output" width="400" height="400">
-        </a>
-    </p>
+    ![acutal_output](./assets/actual_output.gif)
